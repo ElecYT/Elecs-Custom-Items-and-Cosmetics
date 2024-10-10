@@ -6,8 +6,8 @@
 ❤️ PLEASE READ: These packs took much time and research, so donating would be very appreciated! https://paypal.me/eleciscool ❤️
 
 ## Examples
-![image](https://github.com/user-attachments/assets/0582212e-59ad-4612-87d3-6f4c6d3560e4)
-![image](https://github.com/user-attachments/assets/0d8f2796-c702-47e5-a817-bb77eff201d2)
+![image](https://github.com/user-attachments/assets/e19304ba-a355-4138-9fc3-bc25a1595e14)
+
 
 ## Installation + Setup
 To download the Cosmetic Pack, click [this link](https://github.com/ElecYT/Elecs-Custom-Items-and-Cosmetics/tree/main/custom-cosmetics). To download the Item Pack, click [this link](https://github.com/ElecYT/Elecs-Custom-Items-and-Cosmetics/tree/main/custom-items).
