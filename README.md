@@ -3,7 +3,7 @@
 ## About **Elec's Custom Items and Cosmetics** 
 **Elec's Custom Items and Cosmetics**  is a **free** and **100% customizable** items solution for **Java**! It's easy to install and customize! <br>
 
-❤️ Found this helpful? Please support me! ❤️ <br>
+❤️ Find this helpful? Please support me! ❤️ <br>
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W519BLK3)
 
 ## Examples
